@@ -35,5 +35,4 @@ class MainActivity : AppCompatActivity() {
         val nextVal = currVal - 1
         binding.tvCounter.text = nextVal.toString()
     }
-
 }
